@@ -50,8 +50,45 @@ for i in range(n):
     print('X%d = %0.2f' %(i,x[i]), end = ' ')
  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Output:
-![gaussian elimination]()
+
 
 <img width="276" alt="image" src="https://github.com/EPriyadharshini/Gaussian/assets/144870831/d70f6a15-6b33-436e-9cdd-fc99443f0e10">
 
